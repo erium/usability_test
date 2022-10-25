@@ -1,5 +1,7 @@
 import pandas as pd
 from joblib import dump, load
+from sklearn.preprocessing import PolynomialFeatures
+
 
 model_data = load('./out/model.joblib')
 model_name = model_data[0]

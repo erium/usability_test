@@ -7,11 +7,6 @@ labels = list(X.columns)
 num_labels = len(labels)
 target_labels = list(y.columns)
 num_target_labels = len(target_labels)
-print("prediction inputs:")
-print(labels)
-print("\nprediciton outputs:")
-print(target_labels)
-print()
 
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = test_size)
@@ -23,6 +18,12 @@ if variables_to_remove:
     
     for x in variables_to_remove:
         labels.remove(x)
+
+print("prediction inputs:")
+print(labels)
+print("\nprediciton outputs:")
+print(target_labels)
+print()
 
 path = 'out'
 isExist = os.path.exists(path)
