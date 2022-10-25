@@ -333,20 +333,8 @@
                         },
                         {
                             "type": "notebook",
-                            "path": "regression/regression.ipynb"
-                        },
-                        {
-                            "type": "file",
-                            "path": "regression/regression_streamlit.py"
-                        },
-                        {
-                            "type": "notebook",
-                            "path": "regression/regression_streamlit_app.ipynb"
-                        },
-                        {
-                            "type": "file",
-                            "path": "regression/README.md",
-                            "active": true
+                            "path": "regression/regression.ipynb",
+                            "active": true,
                         }
                     ]
                 }
