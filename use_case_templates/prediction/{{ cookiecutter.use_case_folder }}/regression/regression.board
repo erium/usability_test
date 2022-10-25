@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "id": "4b6963fd-a1a4-4bb6-bd60-94f772c7ca27",
+      "id": "a7d94bf4-5578-4a5c-97e6-a9ee5dc2cf3c",
       "title": "0. How to use the Board",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Go through the \"},{\"attributes\":{\"color\":\"#ffff00\"},\"insert\":\"yellow\"},{\"attributes\":{\"color\":\"#444444\",\"italic\":true},\"insert\":\" \"},{\"insert\":\"cards in order. Follow the instructions on each of these cards.\\n\\nThe \"},{\"attributes\":{\"color\":\"#66a3e0\"},\"insert\":\"blue \"},{\"insert\":\"cards provide more information regarding the process at each step. \\n\\nAdjust and/or run code in the \"},{\"attributes\":{\"background\":\"#b2b200\"},\"insert\":\"linked lines\"},{\"insert\":\".\\n\\nThe \"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAqCAYAAAAwPULrAAAFV0lEQVRYR+WYWUxcZRTH//fODDMw7Nopw1JKK9RAobZgLFqgdrHGNDUuiWk0MUZjTNSmxkRfjA/Gl/pgTBMfmmj0wUd90DZWS1GW2iUsAlLWwrDD0IVhmRlm5nKv516YEWbmcr8LQ0Lil5AAc+/5fnOW7/ufw2VkviCBcfEcpzwpSqtfGbxajFfO3lnTimv2AeMu/z3G6YEzGnjlTWFRXLXRloAzGQ0KVEBY3HpwCIZzObxBwi3hOUkMKDwcb9p6nosKR14cqN6L0x/0I+TZKKm/roLIzHpR4nkePL9ciaIEURSVvznaOBAQaE9B2U6SlgqB46gw5HeS0pG2vwyn3j6Ixl+aYHG0wrAwD275Od3lGfYCpxvOYAAXn4jEgiLknngeaXmPQFxcBE//9zoH4G+5DPN4Dwz+BXDi6sLRC8t+lMjeijcjflcBsqtO4KE9RRAFAdMDfXAN9iN1526k7cqHwWSEZ7QLix21sDj7wfs86/akNpwClYA4mx32isOwlx0iTwmYmxiD48/fMPlXDUSPF3xCPDKeOoq8p59Fkj0LvNEId99NcJ31MM04YfB5dUOqw1G+cZZ4GLfZadMqZJSWKxvOjo1g9GY9xq7XQrg3FREp48M2ZD15GNkHK5GclUOJKhBkI/jua4ibmVTCvVbhrDQYBY4Kw2yBaVsGUov2Iau8EubUNLjvOuFsb8Fgza/wjQ1rpo85awd2Hn0O20sOwLptOxa9Lni7rsM43I441yR4wa9pIxKOEju94jhyqo4jgbww75zA1O02DNVdgae/R9Ng+AMJu/cgt+oZ2OiLJm63IzB3D97Wy7B2X9csmEg4czwOnf8egs9H4WvA6I1aPOj4G/Brf1NV8rg4pO/dj+xyOdwVMJrN8F14B7wc4jWWKpyH8unq2Tc2BhW+MUEe++o7JSIbgpNzrObd10Lm+eRUWDNzMNf9D3Nokx4thnt8BOKsK/TO0a9/UHIwpnDJhfuQf/IlNH/xKTNc6Uefoe/ST5jtbNtkuKLHUHDyZTSd+4QZruzjz9F76UfM3m79n8MdeOsMhuqvYnZkEPebb8BK15WtpCzklan2ZrjpuEmnAztlRx5yK4+h5ZvzUT13Ie8crPySBFNbqtUaXhDJFNZYwt368E0E5udjBxfLnLt25nXAt85zLprnYgnX8P6r4PxLOnHjYY3xUcIEFy42pTgLnvjyW+Wi38xDuOG90xRWn+I0jjPCRDpQogZKJCUeVOYRSjgIt9nXFxNcRFO96uKvp4u/LoYXf5Wi8+SLnymsEXBqkqn2d3gGeplvh+CD4ZJJjshg9c9wkdrhpKUJAntBYLXYzCSJY0lLh3tqEpOtTXBUX0SAftdaitg8IovN/bDaMrAw/QDjJMFcpA0DzjFSO5RvYc15uE1mmW4vK6dm2kAyfRijt64xy3SJ+o2JphvUa9RBuDsBacEL0/LMJXyswQ4XfDLU4GTCXnmEGpxypeuaGRmCgyT7VGNDqMGxPV6BPJLmKTm5Sr8x3khQDX/APzUOeD3UOyz1vWoDIf1wKyANiYmw5OUjs+IYtYaFodZw2nFH6V/l1lCGut/TibG6angdfZA87hBU0JTaKG39cMo3pikT/QhGM5IKi7HzxCkkUW5J1DzLIZf716ErF+Hu7aIzjDxFzXa0pdihJah8HvKHnvncqhGY3PlbE5FSUoq0gr2Y7u3ATFszpPm5CE+FA6qN0jbkOVajWpXMake741+xE2s4tOBY7eiCY01kLThWO7rgWI8ALThWO7rgWHNFC47Vji44tZmwFkzE5yqz5Q1Vq9pMWC8cqx1dnmM1qgXLaudfYPExd7+PkxgAAAAASUVORK5CYII=\"}},{\"insert\":\" symbol will lead you to the linked code.\\n\\nAfter you have adjusted the code you can run the cell with the \\n\"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\" button on the bottom left of each cell.\\n\"}]}"
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": "a9eee25a-cb49-46ce-b643-6b99d2c2a7d5",
+      "id": "7fdf6e4e-4984-41b4-be7c-b542c35c2368",
       "title": "1. Describe the experiment",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Adjust the linked line to\\nspecify the \"},{\"attributes\":{\"color\":\"#ffc266\",\"bold\":true},\"insert\":\"name \"},{\"insert\":\"of the regression experiment\"},{\"attributes\":{\"list\":\"bullet\"},\"insert\":\"\\n\"},{\"insert\":\"\\nThen execute the linked cell\\n\"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\"\\n\"}]}"
@@ -56,7 +56,7 @@
       "color": "#51455b"
     },
     {
-      "id": "d02ef181-67a5-46c0-b08c-969b448e1d15",
+      "id": "53829ab3-ca3c-44c1-816f-467e90d884fc",
       "title": "6. Get the results",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Execute the linked cell\\n\"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\"\\nYou will see the performance and training time for the trained models.\\n\\nThe best performing model is used in the next prediction step.\\n\"}]}"
@@ -87,7 +87,7 @@
       "color": "#51455b"
     },
     {
-      "id": "9fa2b8de-b5e7-4eba-a4c8-23e94e03960c",
+      "id": "1ca222a5-ff28-4c76-8d54-34de1fd6b297",
       "title": "5. Run the models",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Execute the linked cell\\n \"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\" \\nAlternatively click the large \"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAArCAYAAAAKasrDAAABpElEQVRYR+2WP0/CQBiHf4wMdHFkhTgySXWHxUkro/0E/omTKHUUFSdD9RPUTa0u6gA7tk7MOFo3iYEBNr2DdNBEjt5dkw7XpNN71z557v3dXSq3uPWNBD8pBSi4OsqgoEAog8qgqAHR+aoHlcG/BrRMGoPhSFTM3PMj96C+lEPjzET1wIH3+jb3j3gHcgFeO3uT/7n3HdRP3FiNcgO2212USgUMBiMCeQP3weeVNHMeN+CmeYH3oI9zstzFYh6e10P10EHw0ZcKKgQY9qCxpuPIqiBDAtS0H2FfPUuDlAJIaWi6rdoGjPVlBMGntBBJAwyVhSnPZhekhEg6YAi6u72KHfKKhig2QApKbYZbkn35hCZ5oz6xAYYGh+TUOa7fkm3Ii8o2GS8d8HcPvpA98k5oI5cGOE2xQVK8krwU033QqlWgaWnw9tp/6y9kkJ4kjVMTup6H7/ewTy4QiTlJWq0uyuUCREPASg63weltRjwEsQAm+j6Y+Bs1a0lk1yP3oGwA1vcUIMsQq64Msgyx6sogyxCrrgyyDLHqyiDL0Kz6ePyFHwqsJIJ0Xg2rAAAAAElFTkSuQmCC\"}},{\"insert\":\" button  on top of the notebook.\\n\"}]}"
@@ -114,7 +114,7 @@
       "color": "#51455b"
     },
     {
-      "id": "a2f8e492-8bf8-4fc7-8f7c-22c36cd15794",
+      "id": "cf82b78d-4027-47e7-a08e-22d5b8c1d7af",
       "title": "2. Import the dataset",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Adjust the linked lines to \\n\"},{\"attributes\":{\"background\":\"rgba(0, 0, 0, 0.2)\"},\"insert\":\"specify the \"},{\"attributes\":{\"background\":\"rgba(0, 0, 0, 0.2)\",\"color\":\"#ffc266\",\"bold\":true},\"insert\":\"path \"},{\"attributes\":{\"background\":\"rgba(0, 0, 0, 0.2)\"},\"insert\":\"of the dataset file after. The path is the name of the data file you have uploaded \"},{\"attributes\":{\"list\":\"bullet\"},\"insert\":\"\\n\"},{\"insert\":\"\\nThen execute the linked cell\\n\"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\"\\n\"}]}"
@@ -145,7 +145,7 @@
       "color": "#51455b"
     },
     {
-      "id": "388b3739-ba2c-4443-9aa4-211c5897e44f",
+      "id": "d5802613-9f5f-4005-937d-befb96d5619d",
       "title": "3. Specify the variables",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Adjust the linked lines to\\nspecify the \"},{\"attributes\":{\"color\":\"#ffc266\",\"bold\":true},\"insert\":\"dependent variable(s). \"},{\"insert\":\"This is the variable we want to predict.\"},{\"attributes\":{\"list\":\"bullet\"},\"insert\":\"\\n\"},{\"insert\":\"\\nThen execute the linked cell\\n\"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\"\\n\\n\\n\"}]}"
@@ -172,7 +172,7 @@
       "color": "#51455b"
     },
     {
-      "id": "2897044a-6eab-488a-88c1-1c106a70e2fa",
+      "id": "dd73a9f1-2716-481f-ab52-d3cb8a0b24c3",
       "title": "4. Reduce Dimensionality",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Adjust the linked lines to\\nspecify \"},{\"attributes\":{\"color\":\"#ffc266\",\"bold\":true},\"insert\":\"variables to remove\"},{\"attributes\":{\"list\":\"bullet\"},\"insert\":\"\\n\"},{\"insert\":\"\\nThen execute the linked cell\\n\"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\"\\n\"}]}"
@@ -199,7 +199,7 @@
       "color": "#51455b"
     },
     {
-      "id": "e315c87e-0a6a-47c9-94cf-538012ba6885",
+      "id": "17f8e2f2-8c63-437e-81af-78e430091021",
       "title": "The Dataset",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"We would need to import our data for training and evaluating the models. We need to understand the size, properties, and features of our dataset to decide on the preprocessing and feature engineering/selection needed.\\n\\nIt is necessary to divide the data set into two distinct sets for training and testing. Generally, performance of models improve with more training data. However, enough data should still be allocated to testing to ensure reliable test results. The train/test ratio is set to 0.25 as a default value. \\n\"}]}"
@@ -222,7 +222,7 @@
       "color": "#28337e"
     },
     {
-      "id": "e9a452c3-f189-454c-9868-291f72f3f747",
+      "id": "b94fea8e-b08f-41c3-9dbd-60bdf6bbab94",
       "title": "results",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"After the notebook has completed running, you can view the final results of all the models as well as the best performing model.\\n\"}]}"
@@ -245,7 +245,7 @@
       "color": "#28337e"
     },
     {
-      "id": "121a2b45-fc14-464b-b3b5-2c9c56033424",
+      "id": "85591418-8977-4ae5-a7d7-3eb993366788",
       "title": "7. Make predictions",
       "type_specific": {
         "message": "{\"ops\":[{\"insert\":\"Execute the linked cell\\n\"},{\"insert\":{\"image\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAACJklEQVRYR8WXO0/DMBCAz3k05SEeExUCIUoBCRZWBubOTDAyIARiZuW/sAEb7Awd2RASSDDRIqqWquLRpiRpEmO7apSQNgnNo54i5Xz33fl8vkOZ2W0M9oU4kFLjIIijgMh33AvZAURiNCVNJGK465gFIKUnQRTHHA6bpgEY6wwIId4XDGMDTFMHQ1ehrSuAybffYgBSepoYH7FkqWEgyjg+5bff87/e/gFVa3iCoIXsHrZ7bhoqMSyFMvx3s6p8Qrvd6qkT5VaPrSQ0iHE+YuNdq5r6DZrWdEFYAHF4HiQSDICeOcfxkYa9nzJZfnfkRAfA0EInXFB6mpiK8mGJo+zyIU7K+65VexTQYm4fx5V4/aJiT0gSgQMSATFoBCORo7ftp1VnutDSyhH+b81f3TyB18dLaH0VBwKiFVNuVjsA9joQVNva1ikTrRULUCsVgm5zyDUb5XAAH5U7mM5sgCJXofRwDrr69S+Q0AAv92dgkgdnbm0HeCEN5ecraNSfAkNEAkBzgBMkmFnMs2jU327h/eUm0CsYKUAmm4epmSEA0COYX99lVbT8fJ3sEXxW75jXilwhSXiRfBIO9RoOvRAFvmt9BB2leJBKGBbA8RgNA8DxHCcN4GpI/nbFYcPrt9/VkvWaC/yUDPq/V3vuORkNaqjXvr5tuXs2nCQjGIrStqcux3Da6RA4SJMBVWCjWvwgbgAbr0CGVToz0p4xrqh4AiRxDr/WpEjy9mh7PQAAAABJRU5ErkJggg==\"}},{\"insert\":\"\\nand enter the parameters for which you want to make a prediction.\\n\"}]}"
@@ -273,8 +273,8 @@
       "id": "b44b81c0-d5e8-4d1b-b65a-82e831e6625c",
       "type": "solid_arrow",
       "node_connections": [
-        "4b6963fd-a1a4-4bb6-bd60-94f772c7ca27",
-        "a9eee25a-cb49-46ce-b643-6b99d2c2a7d5"
+        "a7d94bf4-5578-4a5c-97e6-a9ee5dc2cf3c",
+        "7fdf6e4e-4984-41b4-be7c-b542c35c2368"
       ],
       "type_specific": {
         "annotation": ""
@@ -284,8 +284,8 @@
       "id": "ffdb866f-7f89-40f9-b6e1-7ffb0391d15d",
       "type": "solid_arrow",
       "node_connections": [
-        "a9eee25a-cb49-46ce-b643-6b99d2c2a7d5",
-        "a2f8e492-8bf8-4fc7-8f7c-22c36cd15794"
+        "7fdf6e4e-4984-41b4-be7c-b542c35c2368",
+        "cf82b78d-4027-47e7-a08e-22d5b8c1d7af"
       ],
       "type_specific": {
         "annotation": ""
@@ -295,8 +295,8 @@
       "id": "023c7908-0c14-4c27-a465-ce9021cc61be",
       "type": "solid_arrow",
       "node_connections": [
-        "a2f8e492-8bf8-4fc7-8f7c-22c36cd15794",
-        "388b3739-ba2c-4443-9aa4-211c5897e44f"
+        "cf82b78d-4027-47e7-a08e-22d5b8c1d7af",
+        "d5802613-9f5f-4005-937d-befb96d5619d"
       ],
       "type_specific": {
         "annotation": ""
@@ -306,8 +306,8 @@
       "id": "c557e048-884e-4e7f-8f31-f9ac4f6e90bf",
       "type": "solid_arrow",
       "node_connections": [
-        "9fa2b8de-b5e7-4eba-a4c8-23e94e03960c",
-        "d02ef181-67a5-46c0-b08c-969b448e1d15"
+        "1ca222a5-ff28-4c76-8d54-34de1fd6b297",
+        "53829ab3-ca3c-44c1-816f-467e90d884fc"
       ],
       "type_specific": {
         "annotation": ""
@@ -317,8 +317,8 @@
       "id": "5d317b44-c7b4-44d6-8cac-2f00105bf77c",
       "type": "dashed_arrow",
       "node_connections": [
-        "e315c87e-0a6a-47c9-94cf-538012ba6885",
-        "a2f8e492-8bf8-4fc7-8f7c-22c36cd15794"
+        "17f8e2f2-8c63-437e-81af-78e430091021",
+        "cf82b78d-4027-47e7-a08e-22d5b8c1d7af"
       ],
       "type_specific": {
         "annotation": ""
@@ -328,8 +328,8 @@
       "id": "19f4799c-ecde-46c1-ad79-77097c39b55c",
       "type": "dashed_arrow",
       "node_connections": [
-        "e9a452c3-f189-454c-9868-291f72f3f747",
-        "d02ef181-67a5-46c0-b08c-969b448e1d15"
+        "b94fea8e-b08f-41c3-9dbd-60bdf6bbab94",
+        "53829ab3-ca3c-44c1-816f-467e90d884fc"
       ],
       "type_specific": {
         "annotation": ""
@@ -339,8 +339,8 @@
       "id": "2e6a180f-4a50-4845-a97a-bcad5580831a",
       "type": "solid_arrow",
       "node_connections": [
-        "388b3739-ba2c-4443-9aa4-211c5897e44f",
-        "2897044a-6eab-488a-88c1-1c106a70e2fa"
+        "d5802613-9f5f-4005-937d-befb96d5619d",
+        "dd73a9f1-2716-481f-ab52-d3cb8a0b24c3"
       ],
       "type_specific": {
         "annotation": ""
@@ -350,8 +350,8 @@
       "id": "139fd3df-8821-406a-ab84-1de42ce66786",
       "type": "solid_arrow",
       "node_connections": [
-        "2897044a-6eab-488a-88c1-1c106a70e2fa",
-        "9fa2b8de-b5e7-4eba-a4c8-23e94e03960c"
+        "dd73a9f1-2716-481f-ab52-d3cb8a0b24c3",
+        "1ca222a5-ff28-4c76-8d54-34de1fd6b297"
       ],
       "type_specific": {
         "annotation": ""
@@ -361,8 +361,8 @@
       "id": "6f452378-35d8-465e-8755-373f58330dc8",
       "type": "solid_arrow",
       "node_connections": [
-        "d02ef181-67a5-46c0-b08c-969b448e1d15",
-        "121a2b45-fc14-464b-b3b5-2c9c56033424"
+        "53829ab3-ca3c-44c1-816f-467e90d884fc",
+        "85591418-8977-4ae5-a7d7-3eb993366788"
       ],
       "type_specific": {
         "annotation": ""
