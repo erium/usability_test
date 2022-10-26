@@ -29,7 +29,7 @@ def predict(input_train_df, target):
     inputs = pd.DataFrame(data=inputs, columns=input_labels)
     inputs = pca.transform(inputs)
     if model_name == 'poly':
-        poly_transform = PolynomialFeatures(degree=model_params["model__degree"])
+        poly_transform = PolynomialFeatures(degree=model_params["poly__degree"])
         inputs = poly_transform.fit_transform(inputs)
 
     outputs = pd.DataFrame(model.predict(inputs))
